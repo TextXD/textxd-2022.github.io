@@ -1,0 +1,167 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "6th Annual TextXD Conference"
+  bg_image: "images/banner/letter_banner.jpg"
+  date_time : "Save the Date: December 5-7, 2022"
+  ## button:
+  ## enable : "Discover more"
+  ##  label : "Discover more"
+  ##  link : "service"
+
+########################## timer #################################
+timer:
+  enable : true
+  title : "**Count the day** <br> until TextXD starts"
+  # set timer
+  year: "2022"
+  month: "12"
+  day: "05"
+  hour: "10"
+
+############################## Event ##############################
+event:
+  enable : true
+  title_outline : "event"
+  title : "TextXD: Text Analysis Across Domains"
+  image_back : "images/about/h1-gallery-img-7.jpg"
+  image_front : "images/about/main-home-img-1.jpg"
+  content : "Text-focused data science conference at UC Berkeley.  Three days of workshops, talks, posters, and disscussion on current Natural Language Processing (NLP) research."
+  button:
+    enable : true
+    label : "Discover More"
+    link : "service"
+
+######################### Call to action #########################
+  # cta:
+  #   enable : true
+  #   subtitle : "10% Sale offer for early birds"
+  #   title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  #   image : "images/banner/rev-slider-09.png"
+  #   button:
+  #     enable : true
+  #     label : "get ticket"
+  #     link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  feature_item: 
+    # feature item loop
+    - name : "Community"
+      icon : "tf-ion-android-microphone"
+      content : "Fostering a cross-disciplinary community of text processing experts from academia, research, and industry."
+
+    # feature item loop
+    - name : "Research"
+      icon : "tf-ion-android-globe"
+      content : "Develop a shared understanding of each other’s use of text processing data, algorithms, and software."
+      
+    # feature item loop
+    - name : "Learn"
+      icon : "tf-ion-android-share"
+      content : "Learn from one another, through tutorials, and collaborative work sessions, about available tools and methods, and the applicability of these to various discipline-specific problems."
+
+####################### Schedule #############################
+schedule:
+  enable : false
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : true
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  title_outline : "Keynote Speakers"
+  title : "More announced soon"
+  content : "Multidisciplinary NLP researchers from acedemia and industry"
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Sponsors"
+  title : "Our Partners & Sponsors"
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "Hosted By"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-1.png"
+          link : "https://examplesite.org"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-2.png"
+          link : "#"
+          
+      
+          
+    ############################ sponsor group loop
+    - title : "Partners"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-6.png"
+          link : "https://examplesite.org"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-7.png"
+    #       link : "#"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-8.png"
+    #       link : "#"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-9.png"
+    #       link : "https://examplesite.org"
+
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-1.png"
+    #       link : "#"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-2.png"
+    #       link : "#"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-3.png"
+    #       link : "#"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-4.png"
+    #       link : "https://examplesite.org"
+          
+    #     # sponcor loop
+    #     - logo : "images/clients/client-img-5.png"
+    #       link : "#"
+  
+  # call to action in sponsor
+  sponsorship:
+    enable : true
+    title : "Want to be a sponsor ?"
+    #button
+    label : "Contact Us"
+    link : "#"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "Venue location"
+  image : "images/spieker2.jpeg"
+  date : "December 5-7, 2022"
+  location : "spieker Forum at Chou Hall, <br> University of California, Berkeley"
+  button: 
+    enable : false
+    label : "View Map location"
+    link : "contact"
+
+############################### Blog ######################################
+# blog:
+#   enable : true
+#   title_outline : "News"
+#   title : "Latest News"
+#   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+#   # blog content comes from "content/blog" folder
