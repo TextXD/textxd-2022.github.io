@@ -2,9 +2,9 @@
 faq:
   title_outline : "Faq"
   title : "Frequently Asked Question"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugit doloribus sunt sapiente,
-            corrupti numquam, earum molestiae iure maxime in nostrum sit facilis nemo. Magnam quam voluptate consequatur
-            inventore numquam?"
+  # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugit doloribus sunt sapiente,
+  #           corrupti numquam, earum molestiae iure maxime in nostrum sit facilis nemo. Magnam quam voluptate consequatur
+  #           inventore numquam?"
   faq_item:
     # faq item loop
     - title : "How to buy a Tickets"

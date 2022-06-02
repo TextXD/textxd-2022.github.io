@@ -2,12 +2,13 @@
 banner:
   enable : true
   title : "6th Annual TextXD Conference"
+  subtitle : "Hosted by The Berkeley Institute for Data Science"
+  date_time : "December 5-7, 2022 Hosted by The Berkeley Institute for Data Science"
   bg_image: "images/banner/letter_banner.jpg"
-  date_time : "Save the Date: December 5-7, 2022"
-  ## button:
-  ## enable : "Discover more"
-  ##  label : "Discover more"
-  ##  link : "service"
+  button:
+    enable : true
+    label : "Stay Updated"
+    link : "http://eepurl.com/gAbkij"
 
 ########################## timer #################################
 timer:
@@ -90,8 +91,8 @@ sponsor:
     - title : "Hosted By"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/client-img-1.png"
-          link : "https://examplesite.org"
+        - logo : "images/BIDS_logo.png"
+          link : "https://bids.berkeley.edu/"
           
         # sponcor loop
         - logo : "images/clients/client-img-2.png"
