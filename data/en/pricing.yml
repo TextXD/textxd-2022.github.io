@@ -21,13 +21,13 @@ pricing:
       services:
         - "Two Day Ticket"
         - "Coffee & Lunch"
-        - "Optional $25 Full Day Workshop"
+        - "Optional $10 Full Day Workshop"
       button:
         label : "Comming Soon"
         link : "#"
         
     # pricing table loop
-    - title : "Graduate Student"
+    - title : "Graduate Student and Postdoc"
       style : "1"
       price : "$40"
       icon : "tf-ion-android-hangout"
@@ -35,13 +35,13 @@ pricing:
       services:
         - "Two Days Ticket"
         - "Coffee & Lunch"
-        - "Optional $25 Full Day Workshop"
+        - "Optional $15 Full Day Workshop"
       button:
         label : "Coming Soon"
         link : "#"
         
     # pricing table loop
-    - title : "Postdoc, Faculty, and Industry"
+    - title : "Faculty and Industry"
       style : "3"
       price : "$100"
       icon : "tf-ion-android-person"
@@ -49,7 +49,7 @@ pricing:
       services:
         - "Two Days Ticket"
         - "Coffee & Lunch"
-        - "Optional $25 Full Day Workshop"
+        - "Optional $20 Full Day Workshop"
 
       button:
         label : "Coming Soon"
