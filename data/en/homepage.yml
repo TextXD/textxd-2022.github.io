@@ -2,8 +2,8 @@
 banner:
   enable : true
   title : "6th Annual TextXD Conference"
-  subtitle : "Hosted by The Berkeley Institute for Data Science"
-  date_time : "December 5-7, 2022 Hosted by The Berkeley Institute for Data Science"
+  subtitle : 
+  date_time : "December 5-7, 2022 "
   bg_image: "images/banner/letter_banner.jpg"
   button:
     enable : true
@@ -25,8 +25,8 @@ event:
   enable : true
   title_outline : "event"
   title : "TextXD: Text Analysis Across Domains"
-  image_back : "images/about/h1-gallery-img-7.jpg"
-  image_front : "images/about/main-home-img-1.jpg"
+  image_back : "images/berkeley.jpg"
+  image_front : 
   content : "Text-focused data science conference at UC Berkeley.  Three days of workshops, talks, posters, and disscussion on current Natural Language Processing (NLP) research."
   button:
     enable : true
@@ -34,7 +34,7 @@ event:
     link : "service"
 
 ######################### Call to action #########################
-  # cta:
+  cta:
   #   enable : true
   #   subtitle : "10% Sale offer for early birds"
   #   title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
@@ -75,7 +75,7 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
   title_outline : "Keynote Speakers"
   title : "More announced soon"
   content : "Multidisciplinary NLP researchers from acedemia and industry"
@@ -83,7 +83,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   title_outline : "Sponsors"
   title : "Our Partners & Sponsors"
   sponsor_group:
@@ -153,9 +153,9 @@ venue:
   title : "Venue location"
   image : "images/spieker2.jpeg"
   date : "December 5-7, 2022"
-  location : "spieker Forum at Chou Hall, <br> University of California, Berkeley"
+  location : "Spieker Forum at Chou Hall, <br> University of California, Berkeley"
   button: 
-    enable : false
+    enable : true
     label : "View Map location"
     link : "contact"
 

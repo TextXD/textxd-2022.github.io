@@ -10,13 +10,16 @@
     <div class="row">
       <div class="col-lg-7 mr-auto">
         <div class="banner-content">
-          <span>{{ .date_time }}</span>
+          <span>{{ .date_time }}</span> 
           <h1 class="mt-3 mb-5">{{ .title | markdownify }}</h1>
+          <p><b>Submit to present a talk or poster August 1 - September 16</b></p>
+          <p><b>Tickets go on sale starting  August 15</b></p>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | absLangURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>
           {{ end}}
           {{ end}}
+          <br>
         </div>
       </div>
     </div>
@@ -46,6 +49,23 @@
 {{ end }}
 {{ end }}
 <!-- /timer -->
+
+<section class="cta-2 section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>Hosted by:</h4><br>
+        <img src="../images/bids_logo_2.png" width="300" alt="" class="img-fluid">
+      </div>
+      <div class="col-lg-4">
+        <h4>In Partnership with:</h4> <br><br>
+        <img src="../images/dlab_logo.jpeg" width="200" alt="" class="img-fluid"> 
+    </div>
+      <div class="col-lg-4">
+        <img src="../images/cdss_logo.jpeg" width="250" alt="" class="img-fluid">
+    </div>
+  </div>
+</section>
 
 <!-- event  -->
 {{ if $data.homepage.event.enable }}
