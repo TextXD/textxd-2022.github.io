@@ -87,7 +87,7 @@ home = "Home"
 description = "This is meta description"
 author = "Textxd"
 # email address
-email = "textxd@berkeley.edu "
+email = "textxd@berkeley.edu"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
