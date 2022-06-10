@@ -49,10 +49,10 @@ link = "plugins/google-map/map.js"
   URL = "about"
   weight = 2
   
-[[menu.main]]
-name = "Speakers"
-URL = "speaker"
-weight = 3
+#  [[menu.main]]
+#  name = "Speakers"
+#  URL = "speaker"
+#  weight = 3
 
   [[menu.main]]
   weight = 4
