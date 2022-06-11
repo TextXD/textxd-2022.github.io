@@ -95,20 +95,23 @@ sponsor:
           link : "https://bids.berkeley.edu/"
           
         # sponcor loop
-        #- logo : "images/clients/client-img-2.png"
-        #  link : "#"
-          
-
-    ############################ sponsor group loop
-    - title : "Partners"
-      sponsor:
-        # sponcor loop
         - logo : "images/dlab_logo_v2.png"
           link : "https://dlab.berkeley.edu/"
-          
+
         # sponcor loop
         - logo : "images/cdss_logo.jpeg"
           link : "https://data.berkeley.edu"
+
+    ############################ sponsor group loop
+    #- title : "Partners"
+    #  sponsor:
+        # sponcor loop
+     #   - logo : "images/dlab_logo_v2.png"
+    #    link : "https://dlab.berkeley.edu/"
+          
+        # sponcor loop
+     #   - logo : "images/cdss_logo.jpeg"
+      #    link : "https://data.berkeley.edu"
           
     #     # sponcor loop
     #     - logo : "images/clients/client-img-8.png"
