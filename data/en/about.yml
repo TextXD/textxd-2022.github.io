@@ -1,7 +1,7 @@
 ################## about #################################
 about:
   enable : true
-  image : "images/bg/ctg.jpg"
+  image : "images/bg/cta-bg.jpg"
   title : "Text Analysis **Across Domains** Conference (Text**XD**)"
   content : "TextXD Conference convene an interdisciplinary group of practitioners, researchers, learners, and entrepreneurs \n
   who work with text as a primary source of data, and who use computational text analysis in a wide range of disciplines. \n  
