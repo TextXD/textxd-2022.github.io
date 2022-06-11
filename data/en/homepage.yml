@@ -83,7 +83,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  false
+  enable : false
   title_outline : "Sponsors"
   title : "Our Partners & Sponsors"
   sponsor_group:
@@ -95,21 +95,20 @@ sponsor:
           link : "https://bids.berkeley.edu/"
           
         # sponcor loop
-        - logo : "images/clients/client-img-2.png"
-          link : "#"
+        #- logo : "images/clients/client-img-2.png"
+        #  link : "#"
           
-      
-          
+
     ############################ sponsor group loop
     - title : "Partners"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/client-img-6.png"
-          link : "https://examplesite.org"
+        - logo : "images/dlab_logo_v2.png"
+          link : "https://dlab.berkeley.edu/"
           
-    #     # sponcor loop
-    #     - logo : "images/clients/client-img-7.png"
-    #       link : "#"
+        # sponcor loop
+        - logo : "images/cdss_logo.jpeg"
+          link : "https://data.berkeley.edu"
           
     #     # sponcor loop
     #     - logo : "images/clients/client-img-8.png"
@@ -145,7 +144,7 @@ sponsor:
     title : "Want to be a sponsor ?"
     #button
     label : "Contact Us"
-    link : "#"
+    link : "https://www.textxd.org/contact/"
 
 ################################ venue ########################
 venue:
