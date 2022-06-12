@@ -2,7 +2,7 @@
 timer:
   enable : true
   title : "**Count the day** <br>until conference start"
-  content : "Our intensive 2-day business conferences will teach you the specific steps and proven systems you need to implement and grow your business. We hope you’ll join us!"
+  content : "Our unique 3-day conferences will teach you about cutting-edge research in text analysis. We hope you’ll join us!"
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################

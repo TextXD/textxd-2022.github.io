@@ -1,7 +1,7 @@
 ################## about #################################
 about:
   enable : true
-  image : 
+  image :
   title : "Text Analysis **Across Domains** Conference (Text**XD**)"
   content : "TextXD Conference convene an interdisciplinary group of practitioners, researchers, learners, and entrepreneurs \n
   who work with text as a primary source of data, and who use computational text analysis in a wide range of disciplines. \n  
@@ -11,14 +11,14 @@ about:
 
 ################## sponsor ###############################
 sponsor:
-  enable : true
+  enable : false
   # sponsor data comes from "homepage.yml" file
 
 
 ################## Feature ##############################
 feature:
   enable : true
-  subtitle : "Tickets go on sale starting August 15"
+  subtitle : "Tickets for our 2022 conference go on sale starting August 15"
   title : "Meet top **NLP experts** and **frontiers** in a unique **3-days** experience."
   button:
     enable : true
@@ -48,4 +48,4 @@ feature:
     - title : "Global Innovation"
       icon : "tf-ion-android-bulb" # check `static/plugins/themefisher-font/demo.html` for more icon
       bg_color : "#4125dd"
-      content : "Great Innovation almost never occurs within one filed of expertise, but is almost invariably the product of synthesis across domains"
+      content : "Great Innovation almost never occurs within one field of expertise, but is almost invariably the product of synthesis across domains"

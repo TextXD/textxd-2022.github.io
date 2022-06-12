@@ -83,24 +83,24 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable : false
+  enable : true
   title_outline : "Sponsors"
   title : "Our Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Hosted By"
-      sponsor:
-        # sponcor loop
-        - logo : "images/BIDS_logo.png"
-          link : "https://bids.berkeley.edu/"
+ #   - title : "Hosted By"
+ #     sponsor:
+  #      # sponcor loop
+   #     - logo : "images/BIDS_logo.png"
+    #      link : "https://bids.berkeley.edu/"
           
-        # sponcor loop
-        - logo : "images/dlab_logo_v2.png"
-          link : "https://dlab.berkeley.edu/"
+ #       # sponcor loop
+  #      - logo : "images/dlab_logo_v2.png"
+   #       link : "https://dlab.berkeley.edu/"
 
         # sponcor loop
-        - logo : "images/cdss_logo.jpeg"
-          link : "https://data.berkeley.edu"
+    #    - logo : "images/cdss_logo.jpeg"
+     #     link : "https://data.berkeley.edu"
 
     ############################ sponsor group loop
     #- title : "Partners"
