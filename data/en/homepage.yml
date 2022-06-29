@@ -27,11 +27,17 @@ event:
   title : "TextXD: Text Analysis Across Domains"
   image_back : "images/berkeley.jpg"
   image_front : 
-  content : "Text-focused data science conference at UC Berkeley.  Three days of workshops, talks, posters, and disscussion on current Natural Language Processing (NLP) research."
+  content : "Text-focused data science conference at UC Berkeley.  Three days of workshops, talks, posters, and disscussion on current Natural Language Processing (NLP) research.\n
+  \n
+    ### Recent Past Programs\n
+  ##### See:
+<ins>[2020](https://2020.textxd.org/program/agenda/)</ins>   |
+<ins>[2019](https://2019.textxd.org/2019/program/)</ins>     |
+<ins>[2018](http://2018.textxd.org/programs/textxd2018/)</ins>\n"
   button:
     enable : true
     label : "Discover More"
-    link : "https://www.textxd.org/about/"
+    link : "/about/"
 
 ######################### Call to action #########################
   cta:
