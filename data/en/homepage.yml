@@ -31,7 +31,7 @@ event:
   button:
     enable : true
     label : "Discover More"
-    link : "service"
+    link : "https://www.textxd.org/about/"
 
 ######################### Call to action #########################
   cta:
