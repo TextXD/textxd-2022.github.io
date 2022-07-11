@@ -19,12 +19,13 @@ pricing:
       icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "Two Day Ticket"
-        - "Coffee & Lunch"
+        - "Three Day Ticket"
+        - "Breakfast & Lunch"
+        - "Opening & Closing Receptions"
         - "Optional $10 Full Day Workshop"
       button:
-        label : "Comming Soon"
-        link : "#"
+        label : "Buy Yout Ticket"
+        link : "https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2022-registration-361006729847"
         
     # pricing table loop
     - title : "Graduate Student and Postdoc"
@@ -33,12 +34,13 @@ pricing:
       icon : "tf-ion-android-hangout"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "Two Days Ticket"
-        - "Coffee & Lunch"
+        - "Three Days Ticket"
+        - "Breakfast & Lunch"
+        - "Opening & Closing Receptions"
         - "Optional $15 Full Day Workshop"
       button:
-        label : "Coming Soon"
-        link : "#"
+        label : "Buy Your Ticket"
+        link : "https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2022-registration-361006729847"
         
     # pricing table loop
     - title : "Faculty and Industry"
@@ -47,13 +49,14 @@ pricing:
       icon : "tf-ion-android-person"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "Two Days Ticket"
-        - "Coffee & Lunch"
+        - "Three Days Ticket"
+        - "Breakfast & Lunch"
+        - "Opening & Closing Receptions"
         - "Optional $20 Full Day Workshop"
 
       button:
-        label : "Coming Soon"
-        link : "#"
+        label : "Buy Your Ticket"
+        link : "https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2022-registration-361006729847"
         
 ############################## Event ##############################
 event:
