@@ -81,9 +81,9 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : false
-  title_outline : "Keynote Speakers"
-  title : "More announced soon"
+  enable : true
+  title_outline : "Speakers"
+  title : "Keynote Speakers"
   content : "Multidisciplinary NLP researchers from acedemia and industry"
   # speaker content comes from "content/speaker" folder
 
