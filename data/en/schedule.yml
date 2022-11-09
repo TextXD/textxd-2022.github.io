@@ -1,104 +1,111 @@
 schedule:
   enable : true
   title_outline : "schedule"
-  title : "Topic Discussion"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
+  title : "TextXD Schedule"
+  content : "All talks and training sessions are located at [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
+          Spieker Forum (6th Floor)." 
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
-      date_time : "13 Nov ,2019 [09.00am - 04.00pm]"
+      date_time : "Monday, December 5, 2022"
       schedule_items:
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Introduction of material Design
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
         # schedule loop item
         - time : "9.00am"
           image : "images/about/big-data.png"
           content : "
           
-          ### Marketing Matters in design area
+          ### NLP Training Part 1
 
-          ###### By Risabh moinul
+          ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
 
-          Founder of themefisher
+          [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
+          Spieker Forum (6th Floor).  Purchase tickets here.
           "
           
         # schedule loop item
-        - time : "9.00am"
+        - time : "1:00pm"
           image : "images/about/lunch.jpg"
           content : "
           
-          ### Launch Break
+          ### Lunch
 
-          ###### By Risabh moinul
+          ###### Attendees find lunch on their own
 
-          Founder of themefisher
+          Reccomended Spot: [Rice and Bones](https://www.riceandbones.com/), 5 min walk.
+
           "
           
         # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-    ################# tab itam loop ################
-    - title : "Day 2"
-      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
-      schedule_items:
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
+        - time : "1.00pm"
           image : "images/about/big-data.png"
           content : "
           
-          ### Marketing Matters in design area
+           ### NLP Training Part 2
 
-          ###### By Risabh moinul
+          ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
 
-          Founder of themefisher
+          [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
+          Spieker Forum (6th Floor).  
+
+          "
+
+          # schedule loop item
+        - time : "3.30pm"
+          image : "images/party.png"
+          content : "
+          
+          ### Opening Reception & Check In
+
+          Check in begins at [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
+          Spieker Forum (6th Floor)
+          
+          "
+          
+        # schedule loop item
+        - time : "5.00pm "
+          image : "images/teams/emily.jpeg"
+          content : "
+          
+          ### Keynote: [Emily M. Bender](/speaker/emily-bender/)
+
+          
+          "
+          
+    ################# tab item loop ################
+    - title : "Day 2"
+      date_time : "Tuesday, December 6, 2022"
+      schedule_items:
+        # schedule loop item
+        - time : "8:30am - 9:30am"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Start of Day 2
+
+            **Registration** 8:30am - 9:30
+
+
+            **Coffee and Light Breakfast** 9:00am - 9:30am
+
+
+            **Welcome** 9:30am - 9:40am
+
+          "
+
+    
+          
+        # schedule loop item
+        - time : "9.30am"
+          image : "images/teams/Blei.jpeg"
+          content : "
+          
+  
+          ### Keynote: [David Blei](speaker/david-blei)
           "
           
     ################# tab itam loop ################
     - title : "Day 3"
-      date_time : "15 Nov ,2019 [09.00am - 04.00pm]"
+      date_time : "Wednesday, December 7"
       schedule_items:
         # schedule loop item
         - time : "9.00am"

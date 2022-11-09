@@ -64,10 +64,10 @@ link = "plugins/google-map/map.js"
     name = "Tickets"
     URL = "pricing"
 
-#    [[menu.main]]
-#    parent = "Pages"
-#    name = "Schedule"
-#    URL = "schedule"
+    [[menu.main]]
+    parent = "Pages"
+   name = "Schedule"
+   URL = "schedule"
 
     [[menu.main]]
     parent = "Pages"
