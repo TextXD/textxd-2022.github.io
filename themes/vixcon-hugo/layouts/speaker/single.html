@@ -14,7 +14,10 @@
             <h2>{{ .Title }}</h2>
             <span class="text-color">{{ .Params.Designation }}</span>
           </div>
-          <p> {{ .Params.Description }}</p>
+          <h3>{{ .Params.Talk }}</h3>
+         <p>{{ .Params.Abstract }}</p>
+
+          <p><b>Bio: </b>{{ .Params.Description }}</p>
 
           <div class="content">{{ .Content }}</div>
 

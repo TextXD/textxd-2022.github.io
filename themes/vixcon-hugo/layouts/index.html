@@ -143,7 +143,7 @@
 {{ end }}
 <!-- /pricing  -->
 
-<!-- speaker -->
+<!-- Keynote speaker -->
 {{ if $data.homepage.speaker.enable }}
 <section class="section-speaker section">
   <div class="container">
@@ -184,6 +184,50 @@
 </section>
 {{ end }}
 <!-- /speaker -->
+
+<!-- speaker -->
+{{ if $data.homepage.speaker.enable }}
+<section class="section-speaker section">
+  <div class="container">
+    {{ with $data.homepage.speaker }}
+    <div class="row section-heading">
+      <div class="col-lg-6">
+        <div class="heading">
+          <span class="stroke-text">Presenters</span>
+          <div class="pl-90">
+            <h2>Speakers & Presenters</h2>
+            <p>Multidisciplinary NLP researchers from acedemia and industry.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="row">
+      {{ range (where .Site.RegularPages "Type" "presenter") }}
+      <div class="col-lg-4 col-sm-6">
+        <div class="speaker-block mb-5">
+          <div class="img-block">
+            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid">
+            <ul class="list-inline speaker-social">
+              {{ range .Params.Social }}
+              <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+              {{ end }}
+            </ul>
+          </div>
+          <div class="speaker-info">
+            <h4 class="mb-0 mt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            <p>{{ .Params.Designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /speaker -->
+
+
 
 <!-- sponsor -->
 {{ if $data.homepage.sponsor.enable }}

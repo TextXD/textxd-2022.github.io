@@ -5,7 +5,7 @@ schedule:
   content : "All talks and training sessions are located at [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
           Spieker Forum (6th Floor)." 
   schedule_tab:
-    ################# tab itam loop ################
+    ################# tab item loop ################
     - title : "Day 1"
       date_time : "Monday, December 5, 2022"
       schedule_items:
@@ -18,7 +18,7 @@ schedule:
 
           ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
 
-          [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
+          <u>[Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)</u>
           Spieker Forum (6th Floor).  Purchase tickets here.
           "
           
@@ -28,10 +28,6 @@ schedule:
           content : "
           
           ### Lunch
-
-          ###### Attendees find lunch on their own
-
-          Reccomended Spot: [Rice and Bones](https://www.riceandbones.com/), 5 min walk.
 
           "
           
@@ -50,7 +46,7 @@ schedule:
           "
 
           # schedule loop item
-        - time : "3.30pm"
+        - time : "3:30pm - 5:30pm"
           image : "images/party.png"
           content : "
           
@@ -66,7 +62,7 @@ schedule:
           image : "images/teams/emily.jpeg"
           content : "
           
-          ### Keynote: [Emily M. Bender](/speaker/emily-bender/)
+          ### Keynote: <u>[Emily M. Bender](/speaker/emily-bender/)</u>
 
           
           "
@@ -76,81 +72,93 @@ schedule:
       date_time : "Tuesday, December 6, 2022"
       schedule_items:
         # schedule loop item
-        - time : "8:30am - 9:30am"
-          image : "images/about/creativity.jpg"
+        - time : "8:30am - 9:40am"
+          image : "images/sun.png"
           content : "
           
-          ### Start of Day 2
+          ### Start of the Day
 
-            **Registration** 8:30am - 9:30
-
-
-            **Coffee and Light Breakfast** 9:00am - 9:30am
+            **8:30am - 9:30:** Registration
 
 
-            **Welcome** 9:30am - 9:40am
+            **9:00am - 9:30am:** Coffee and Light Breakfast
+
+
+            **9:30am - 9:40am:** Welcome
 
           "
 
     
           
         # schedule loop item
-        - time : "9.30am"
+        - time : "9.40am"
           image : "images/teams/Blei.jpeg"
           content : "
           
   
-          ### Keynote: [David Blei](speaker/david-blei)
+          ### Keynote: <u>[David Blei](../speaker/david-blei)</u>
           "
+
+
+        # schedule loop item
+        - time : "10:30am"
+          image : "images/coffeebreak.png"
+          content : "
           
+  
+          ### Coffee Break
+          "
+
+
+        # schedule loop item
+        - time : "11:15am"
+          image : "images/risingup.png"
+          content : "
+          
+  
+          ### Session 2
+
+          ####  Scientific Fictions and Scientific Truths
+          
+         **Talk 2.1:** <u>[Mark Algee-Hewitt]()</u>, 
+         Truth in Fiction: the Discourse of Embedded Scientific Facts in Climate Fiction
+
+
+         **Talk 2.2:**  Shide Dehghani
+          "
     ################# tab itam loop ################
     - title : "Day 3"
       date_time : "Wednesday, December 7"
       schedule_items:
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
 
         # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
+        - time : "8:30am - 9:40am"
+          image : "images/sun.png"
           content : "
           
-          ### Introduction of material Design
+          ### Start of the Day
 
-          ###### By Risabh moinul
+            **9:00am - 9:30am:** Coffee and Light Breakfast
 
-          Founder of themefisher
           "
-          
+
+
         # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
+        - time : "11:15am"
+          image : "images/risingup.png"
           content : "
           
-          ### Cultures of Creativity
+  
+          ### Session 1
 
-          ###### By Risabh moinul
+          ####  Rising Up and Tamping Down: Social Movements and Political Elites
+          
+          **Talk 1.1:**  <u>[Ishita Gopa](../)</u>, 
+          Coverage of Protests on Telegram
 
-          Founder of themefisher
+
+          **Talk 1.2:**   <u>[Yunus Emre Tapan](../speaker/tapan/)</u>,
+          Investigation of elite opinion on Turkish-American relations
+
           "
+       
