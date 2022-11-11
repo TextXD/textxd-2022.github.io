@@ -23,7 +23,7 @@ schedule:
           "
           
         # schedule loop item
-        - time : "1:00pm"
+        - time : "12:00pm"
           image : "images/about/lunch.jpg"
           content : "
           
@@ -46,11 +46,11 @@ schedule:
           "
 
           # schedule loop item
-        - time : "3:30pm - 5:30pm"
-          image : "images/party.png"
+        - time : "2:00pm - 3:00pm"
+          image : "images/pencil.png"
           content : "
           
-          ### Opening Reception & Check In
+          ### Check In
 
           Check in begins at [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
           Spieker Forum (6th Floor)
@@ -58,7 +58,7 @@ schedule:
           "
           
         # schedule loop item
-        - time : "5.00pm "
+        - time : "3:00pm - 4:00pm"
           image : "images/teams/emily.jpeg"
           content : "
           
@@ -66,6 +66,15 @@ schedule:
 
           
           "
+          # schedule loop item
+        - time : "4:00pm - 6:00pm"
+          image : "images/party.png"
+          content : "
+          
+          ### Opening Reception
+          
+          "
+          
           
     ################# tab item loop ################
     - title : "Day 2"
@@ -78,27 +87,102 @@ schedule:
           
           ### Start of the Day
 
-            **8:30am - 9:30:** Registration
+            **9:00am:** Registration and Coffee
 
 
-            **9:00am - 9:30am:** Coffee and Light Breakfast
-
-
-            **9:30am - 9:40am:** Welcome
-
+            **9:30:** Welcome
           "
 
-    
-          
         # schedule loop item
-        - time : "9.40am"
-          image : "images/teams/Blei.jpeg"
+        - time : "9:45am"
+          image : "images/risingup.png"
           content : "
           
   
-          ### Keynote: <u>[David Blei](../speaker/david-blei)</u>
+          ### Session 1
+
+          ####  Rising Up and Tamping Down: Social Movements and Political Elites
+          
+          **Talk 1.1:**  Ishita Gopa, 
+          Coverage of Protests on Telegram
+
+
+          **Talk 1.2:**   Yunus Emre Tapan,
+          Investigation of elite opinion on Turkish-American relations
+
           "
 
+        # schedule loop item
+        - time : "11:00am"
+          image : "images/science.png"
+          content : "
+          
+  
+          ### Session 2
+
+          ####  Scientific Fictions and Scientific Truths
+          
+         **Talk 2.1:** Mark Algee-Hewitt, 
+         Truth in Fiction: the Discourse of Embedded Scientific Facts in Climate Fiction
+
+
+         **Talk 2.2:**  Shide Dehghani
+          "
+
+        # schedule loop item
+        - time : "11:45am"
+          image : "images/poster.png"
+          content : "
+          
+  
+          ### Poster Session
+
+          Poster session begins and runs through lunch.
+          "
+
+        # schedule loop item
+        - time : "12:00pm"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Lunch
+          "
+        # schedule loop item
+        - time : "1:30pm"
+          image : "images/lightning.png"
+          content : "
+          
+  
+          ### Session 3
+
+          ####  Lightning Talks
+          
+        **Sub-Session 1: Scripting Culture, Smashing Politics**
+          **Lightning 3.1:** Saber Khani
+
+
+          **Lightning 3.2:** Pranathi Iyer
+
+
+          **Lightning 3.3:** Aleksi Sahala
+
+
+          **Q/A (15min)**
+
+
+          **Sub-Session 2: The Hidden Structures of Science**
+          
+          **Lightning 3.4:** Xiangyi Meng
+
+
+          **Lightning 3.5:** Viktoriia Baibakova
+          
+
+          **Lightning 3.6:** Karl Swanson
+
+
+          **Q/A (15min)**
+          "
 
         # schedule loop item
         - time : "10:30am"
@@ -108,25 +192,37 @@ schedule:
   
           ### Coffee Break
           "
-
-
-        # schedule loop item
-        - time : "11:15am"
-          image : "images/risingup.png"
+ # schedule loop item
+        - time : "3:00pm"
+          image : "images/eyes.png"
           content : "
           
   
-          ### Session 2
+          ### Session 4
 
-          ####  Scientific Fictions and Scientific Truths
+          ####  Through New Eyes: Advances in Methods
           
-         **Talk 2.1:** <u>[Mark Algee-Hewitt]()</u>, 
-         Truth in Fiction: the Discourse of Embedded Scientific Facts in Climate Fiction
+          **Talk 4.1:**  Jake Ryland Williams
 
 
-         **Talk 2.2:**  Shide Dehghani
+          **Talk 4.2:**  Emily Amspoker
+
+
+          **Talk 4.3:**  Peter Leonard
           "
-    ################# tab itam loop ################
+
+        # schedule loop item
+        - time : "4:00pm"
+          image : "images/colab.png"
+          content : "
+          
+  
+          ### Collaboration Session
+
+          #### Themed Table Discussion 
+          "
+
+    ################# tab item loop ################
     - title : "Day 3"
       date_time : "Wednesday, December 7"
       schedule_items:
@@ -138,27 +234,151 @@ schedule:
           
           ### Start of the Day
 
-            **9:00am - 9:30am:** Coffee and Light Breakfast
+            **9:00am - 9:30am:** Registration and Coffee 
 
+            **9:30:** - Welcome back 
+          "
+
+        # schedule loop item
+        - time : "9:45pm"
+          image : "images/health.png"
+          content : "
+          
+  
+          ### Session 5
+
+          #### Reading the Fine Print: Social Determinants of Health 
+          
+          **Talk 5.1:**  Dmytro 'Dima' Lituiev
+
+
+          **Talk 5.2:** shenghuan sun
+          "
+
+        # schedule loop item
+        - time : "10:30am"
+          image : "images/coffeebreak.png"
+          content : "
+          
+  
+          ### Coffee Break
+          "
+
+        # schedule loop item
+        - time : "11:00am"
+          image : "images/network.png"
+          content : "
+          
+  
+          ### Session 6
+
+          #### Friends and Enemies: Network Interaction, Group Formation, and Misinformation 
+          
+          **Talk 6.1:**  Monica Lee
+
+
+          **Talk 6.2:**  Lara Yang
+          "
+
+        # schedule loop item
+        - time : "11:45pm"
+          image : "images/poster.png"
+          content : "
+          
+  
+          ### Poster Session
+          "
+
+        # schedule loop item
+        - time : "12:15pm"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Lunch
+          "
+
+        # schedule loop item
+        - time : "1:30pm"
+          image : "images/lightning.png"
+          content : "
+          
+  
+          ### Session 3
+
+          ####  Lightning Talks
+          
+          **Sub-Session 3: Widening the Frame: New Methods and Resources**
+          
+
+          **Lightning 7.4:** Laura Nixon
+
+
+          **Lightning 7.5:** Lindsay Katz
+
+
+          **Lightning 7.6:** Ayush Pancholy
+
+
+          **Q/A**
+
+
+          **Sub-Session 4:Tweeting Covid-19**
+
+
+          **Lightning 7.1:** Samuel R. Mendez
+
+
+          **Lightning 7.2:** Burak Ozturan
+
+
+          **Q/A** 
+"
+
+          # schedule loop item
+        - time : "2:30pm"
+          image : "images/coffeebreak.png"
+          content : "
+          
+  
+          ### Coffee Break
           "
 
 
         # schedule loop item
-        - time : "11:15am"
-          image : "images/risingup.png"
+        - time : "11:00am"
+          image : "images/money.png"
+          content : "
+          
+
+          ### Session 8
+
+          #### Money Talks: Finance and Marketing 
+          
+          **Talk 8.1:**  Dominik Jurek, 
+
+
+          **Talk 8.2:**  Vincent Chen
+
+
+          **Talk 8.3:**  Summer Zhao
+          "
+
+
+
+           # schedule loop item
+        - time : "9.40am"
+          image : "images/teams/Blei.jpeg"
           content : "
           
   
-          ### Session 1
-
-          ####  Rising Up and Tamping Down: Social Movements and Political Elites
-          
-          **Talk 1.1:**  <u>[Ishita Gopa](../)</u>, 
-          Coverage of Protests on Telegram
-
-
-          **Talk 1.2:**   <u>[Yunus Emre Tapan](../speaker/tapan/)</u>,
-          Investigation of elite opinion on Turkish-American relations
-
+          ### Keynote: <u>[David Blei](../speaker/david-blei)</u>
           "
        
+          # schedule loop item
+        - time : "5:00pm"
+          image : "images/party.png"
+          content : "
+          
+  
+          ### Closing Reception
+          "
