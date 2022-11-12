@@ -19,7 +19,7 @@ schedule:
           ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
 
           <u>[Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)</u>
-          Spieker Forum (6th Floor).  Purchase tickets here.
+          Spieker Forum (6th Floor).  
           "
           
         # schedule loop item
@@ -103,7 +103,7 @@ schedule:
 
           ####  Rising Up and Tamping Down: Social Movements and Political Elites
           
-          **Talk 1.1:**  Ishita Gopa, 
+          **Talk 1.1:**  Ishita Gopal, 
           Coverage of Protests on Telegram
 
 
@@ -126,7 +126,8 @@ schedule:
          Truth in Fiction: the Discourse of Embedded Scientific Facts in Climate Fiction
 
 
-         **Talk 2.2:**  Shide Dehghani
+         **Talk 2.2:**  Shide Dehghani, 
+         ExtractFlora: a pipeline for transforming a floristic manual into a database for ecological and evolutionary study
           "
 
         # schedule loop item
@@ -158,13 +159,16 @@ schedule:
           ####  Lightning Talks
           
         **Sub-Session 1: Scripting Culture, Smashing Politics**
-          **Lightning 3.1:** Saber Khani
+          **Lightning 3.1:** Saber Khani,
+          Pro-Government Mobilization in Post-revolutionary Iran: Organizational Infrastructure, and Contentious Origin 
 
 
-          **Lightning 3.2:** Pranathi Iyer
+          **Lightning 3.2:** Pranathi Iyer, 
+          Decoding matrimonial advertisements: Individual preferences entrenched in socio cultural biases
 
 
-          **Lightning 3.3:** Aleksi Sahala
+          **Lightning 3.3:** Aleksi Sahala, 
+          Code-switching in Sumerian Emesal texts: A computational approach
 
 
           **Q/A (15min)**
@@ -172,13 +176,16 @@ schedule:
 
           **Sub-Session 2: The Hidden Structures of Science**
           
-          **Lightning 3.4:** Xiangyi Meng
+          **Lightning 3.4:** Xiangyi Meng, 
+          Hidden Citations Obscure True Impact in Science
 
 
-          **Lightning 3.5:** Viktoriia Baibakova
+          **Lightning 3.5:** Viktoriia Baibakova,
+          Dataset of BiFeO3 thin film sol-gel synthesis recipes extracted manually and with GPT-3
           
 
-          **Lightning 3.6:** Karl Swanson
+          **Lightning 3.6:** Karl Swanson,
+          Hypernym Substitution for the Simplification of Biomedical Definitions
 
 
           **Q/A (15min)**
@@ -202,13 +209,16 @@ schedule:
 
           ####  Through New Eyes: Advances in Methods
           
-          **Talk 4.1:**  Jake Ryland Williams
+          **Talk 4.1:**  Jake Ryland Williams, 
+          How To Train Your Own Transformer From Scratch
 
 
-          **Talk 4.2:**  Emily Amspoker
+          **Talk 4.2:**  Emily Amspoker, 
+          A Gamified Approach to Frame Semantic Role Labeling
 
 
-          **Talk 4.3:**  Peter Leonard
+          **Talk 4.3:**  Peter Leonard, 
+          Text & visual cultural heritage collections: evocative possibilities
           "
 
         # schedule loop item
@@ -249,10 +259,13 @@ schedule:
 
           #### Reading the Fine Print: Social Determinants of Health 
           
-          **Talk 5.1:**  Dmytro 'Dima' Lituiev
+          **Talk 5.1:**  Dmytro 'Dima' Lituiev, 
+          Automatic Extraction of Social Determinants of Health from Medical Notes of Chronic Lower Back Pain Patients
 
 
-          **Talk 5.2:** shenghuan sun
+          **Talk 5.2:** Shenghuan Sun, 
+          Predicting the cancer therapy regimen from social work notes using natural language processing
+
           "
 
         # schedule loop item
@@ -274,10 +287,12 @@ schedule:
 
           #### Friends and Enemies: Network Interaction, Group Formation, and Misinformation 
           
-          **Talk 6.1:**  Monica Lee
+          **Talk 6.1:**  Monica Lee, 
+          Extracting text signals from social media movements with Information Corridors
 
 
-          **Talk 6.2:**  Lara Yang
+          **Talk 6.2:**  Lara Yang, 
+          Locally Ensconced and Globally Integrated: How Positions in Network Structure Relate to a Language-Based Model of Group Identification
           "
 
         # schedule loop item
@@ -310,13 +325,18 @@ schedule:
           **Sub-Session 3: Widening the Frame: New Methods and Resources**
           
 
-          **Lightning 7.4:** Laura Nixon
+          **Lightning 7.4:** Laura Nixon, 
+          ReThink Media is working on a pipeline to analyze news coverage of the issues we work on, leveraging past work by researchers on quote extraction, news/opinion classification, NER and name-to-gender inference. We’ll discuss what we’ve learned, and the outstanding questions we’re grappling with now.
 
 
-          **Lightning 7.5:** Lindsay Katz
+          **Lightning 7.5:** Lindsay Katz, 
+          Digitization of the Australian Hansard (1901-2022): A new, comprehensive database of all proceedings of the Australian Parliamentary Debates
 
 
-          **Lightning 7.6:** Ayush Pancholy
+
+          **Lightning 7.6:** Ayush Pancholy, 
+          Sister Help: Data Augmentation for Frame-Semantic Role Labeling
+
 
 
           **Q/A**
@@ -325,10 +345,12 @@ schedule:
           **Sub-Session 4:Tweeting Covid-19**
 
 
-          **Lightning 7.1:** Samuel R. Mendez
+          **Lightning 7.1:** Samuel R. Mendez, 
+          Performance of reading grade level estimators for public health communication on Twitter
 
 
-          **Lightning 7.2:** Burak Ozturan
+          **Lightning 7.2:** Burak Ozturan,
+          Polarization in elite discourse on the COVID-19 pandemic
 
 
           **Q/A** 
@@ -354,13 +376,16 @@ schedule:
 
           #### Money Talks: Finance and Marketing 
           
-          **Talk 8.1:**  Dominik Jurek, 
+          **Talk 8.1:**  Dominik Jurek,
+          Patent texts for identification in economic and innovation research
 
 
-          **Talk 8.2:**  Vincent Chen
+          **Talk 8.2:**  Vincent Chen,
+          Correcting Recency Bias in Retrospective Judgments Using Diachronic Word Embedding
 
 
-          **Talk 8.3:**  Summer Zhao
+          **Talk 8.3:**  Summer Zhao,
+          The Information Content of Credit Sentiments in Conference Calls
           "
 
 
