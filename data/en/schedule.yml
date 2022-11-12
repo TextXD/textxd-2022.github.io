@@ -46,7 +46,7 @@ schedule:
           "
 
           # schedule loop item
-        - time : "2:00pm - 3:00pm"
+        - time : "4:00pm"
           image : "images/pencil.png"
           content : "
           
@@ -58,7 +58,7 @@ schedule:
           "
           
         # schedule loop item
-        - time : "3:00pm - 4:00pm"
+        - time : "4:30pm"
           image : "images/teams/emily.jpeg"
           content : "
           
@@ -67,7 +67,7 @@ schedule:
           
           "
           # schedule loop item
-        - time : "4:00pm - 6:00pm"
+        - time : "5:30pmpm"
           image : "images/party.png"
           content : "
           
