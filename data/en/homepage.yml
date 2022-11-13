@@ -83,8 +83,8 @@ pricing:
 speaker:
   enable : true
   title_outline : "Speakers"
-  title : "Keynote Speakers"
-  content : "  "
+  title : "Speakers & Presenters"
+  content : "Multidisciplinary NLP researchers from acedemia and industry. "
 
   # speaker content comes from "content/speaker" folder
 
