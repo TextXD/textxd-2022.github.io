@@ -158,7 +158,7 @@ schedule:
 
           ####  Lightning Talks
           
-        **Sub-Session 1: Scripting Culture, Smashing Politics**
+        **Sub-Session: Scripting Culture, Smashing Politics**
           **Lightning 3.1:** Saber Khani,
           Pro-Government Mobilization in Post-revolutionary Iran: Organizational Infrastructure, and Contentious Origin 
 
@@ -174,7 +174,7 @@ schedule:
           **Q/A (15min)**
 
 
-          **Sub-Session 2: The Hidden Structures of Science**
+          **Sub-Session: The Hidden Structures of Science**
           
           **Lightning 3.4:** Xiangyi Meng, 
           Hidden Citations Obscure True Impact in Science
@@ -322,19 +322,19 @@ schedule:
 
           ####  Lightning Talks
           
-          **Sub-Session 3: Widening the Frame: New Methods and Resources**
+          **Sub-Session: Widening the Frame: New Methods and Resources**
           
 
-          **Lightning 7.4:** Laura Nixon, 
+          **Lightning 7.1:** Laura Nixon, 
           ReThink Media is working on a pipeline to analyze news coverage of the issues we work on, leveraging past work by researchers on quote extraction, news/opinion classification, NER and name-to-gender inference. We’ll discuss what we’ve learned, and the outstanding questions we’re grappling with now.
 
 
-          **Lightning 7.5:** Lindsay Katz, 
+          **Lightning 7.2:** Lindsay Katz, 
           Digitization of the Australian Hansard (1901-2022): A new, comprehensive database of all proceedings of the Australian Parliamentary Debates
 
 
 
-          **Lightning 7.6:** Ayush Pancholy, 
+          **Lightning 7.3:** Ayush Pancholy, 
           Sister Help: Data Augmentation for Frame-Semantic Role Labeling
 
 
@@ -342,14 +342,14 @@ schedule:
           **Q/A**
 
 
-          **Sub-Session 4:Tweeting Covid-19**
+          **Sub-Session:Tweeting Covid-19**
 
 
-          **Lightning 7.1:** Samuel R. Mendez, 
+          **Lightning 7.4:** Samuel R. Mendez, 
           Performance of reading grade level estimators for public health communication on Twitter
 
 
-          **Lightning 7.2:** Burak Ozturan,
+          **Lightning 7.5:** Burak Ozturan,
           Polarization in elite discourse on the COVID-19 pandemic
 
 
@@ -367,7 +367,7 @@ schedule:
 
 
         # schedule loop item
-        - time : "11:00am"
+        - time : "3:00pm"
           image : "images/money.png"
           content : "
           
@@ -391,7 +391,7 @@ schedule:
 
 
            # schedule loop item
-        - time : "9.40am"
+        - time : "4:00pm"
           image : "images/teams/Blei.jpeg"
           content : "
           
