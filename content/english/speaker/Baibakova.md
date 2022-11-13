@@ -9,7 +9,7 @@ bg_image : "images/speakers/Baibakova.jpg"
 image : "images/speakers/Baibakova.jpg"
 designation : UC-Berkeley / Lawrence Berkeley National Laboratory
 email : 
-type : "presenter"
+type : "speaker"
 
 ---
 

@@ -9,7 +9,8 @@ bg_image : "images/speakers/Amspoker.jpg"
 image : "images/speakers/Amspoker.jpg"
 designation : UC Berkeley, International Computer Science Institute / Carnegie Mellon University
 email : 
-type : "presenter"
+type : "speaker"
+
 
 ---
 

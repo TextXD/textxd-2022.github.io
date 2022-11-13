@@ -9,7 +9,7 @@ bg_image : "images/speakers/profile.png"
 image : "images/speakers/profile.png"
 designation : Pennsylvania State University
 email : 
-type : "presenter"
+type : "speaker"
 
 ---
 
