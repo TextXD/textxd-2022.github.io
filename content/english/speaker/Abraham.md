@@ -1,0 +1,15 @@
+---
+title: "Anastasja Abraham"
+date: 2019-09-10T13:51:25+06:00
+draft: false
+talk: "Quantifying the Rhetoric of Polarization: A Word Embeddings Approach to the American Ideological Divide "
+abstract: "The American politics scholarship recognizes that the two major political parties/ideologies are bifurcating, but the degree of polarization in political rhetoric is hard to measure. This research uses word embedding models (WEMs) to measure polarization, tracing ideological bifurcation across hundreds of texts written by proponents of the left and right. I argue that we can quantify different facets of polarization by considering the rhetorical significance of terms the far-right (FR) uses as compared to the left (LW). I review 200+ political groups’ writings across two hand-compiled and hand-coded corpora (LW and FR) with 1.5 million total words. I model each with Word2Vec and query a selection of terms to discern rhetorical trends relating to race, sex/gender, and religion. I analyze distance in vector space between terms across both corpora by using anchor words (i.e. “black,” “women,” “gay,”) and keywords relating to each. I test the anchor-keyword pairs across both corpora to determine their prevalence/usage in each. I map the models in vector space to quantify the rhetorical differences between LW and FR groups, providing novel empirical support for the contention that FR groups react to progressive values with rhetorical strategies geared at halting their progress, fearing status threats. For instance, I queried the anchor term “gay” across both models. In the FR model the keywords “pedophilia” and “polygamy” have high cosine similarities to “gay,” while the words are absent from the LW model. The LW model responds to “gay” with keywords like “rights.” I argue that conceptual differences between LW and FR are broader than contextual differences between certain terms. For some anchor words, the rhetorical frameworks themselves differ. An example comes from querying the anchor word “race.” The LW model shows high cosine similarities to keywords like “ethnicity,” “origin,” and “age,”— descriptive words. The FR model shows high cosine similarities to keywords like “unification,” “realism,” “culture,” and “differences.” Framing on each side occurs in different conceptual spaces; the FR views race through a lens of cultural values tinged with exclusionary orthodoxies. My results show that ideological bifurcation over race, gender/sex, and religion is quantifiable using WEMs, providing a more nuanced understanding of ideological bifurcation on politically salient issues, enabling better mapping of bifurcation across vector space and the polity."
+description: "Ana is a PhD candidate in Political Science at Northeastern University. She studies the American Far Right, employing both the traditional frameworks of the Nationalism scholarship and text-as-data/NLP methods in her research." 
+bg_image : "images/speakers/Abraham.jpeg"
+image : "images/speakers/Abraham.jpeg"
+designation : Northeastern University
+email : 
+type : "speaker"
+
+---
+
