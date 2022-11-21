@@ -16,10 +16,14 @@ schedule:
           
           ### NLP Training Part 1
 
-          ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
+          ###### Python Text Analysis, Part 1: Bag-of-Words Representations
 
+          How do we convert text into a representation that we can operate on computationally? This requires developing a numerical representation of the text. In this part of the workshop, we study one of the foundational numerical representation of text data: the bag-of-words model. This model relies heavily on word frequencies in order to characterize text corpora. We build bag-of-words models, and their variations (e.g., TF-IDF), and use these representations to perform classification on text.
           <u>[Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)</u>
-          Spieker Forum (6th Floor).  
+          Spieker Forum (6th Floor).  Hosted by <u>[D-Lab](https://dlab.berkeley.edu/home)</u>. 
+
+
+          **Skill Level**:The workshop is geared towards those with a basic familiarity with Python, but people without any familiarity with Python should be able to follow along with the conceptual presentation of the materials.
           "
           
         # schedule loop item
@@ -38,11 +42,14 @@ schedule:
           
            ### NLP Training Part 2
 
-          ###### Hosted by [D-Lab](https://dlab.berkeley.edu/home)
+          ###### Python Text Analysis, Part 2: Word Embeddings
 
+          How can we use neural networks to create meaningful representations of words? The bag-of-words is limited in its ability to characterize text, because it does not utilize word context. In this part, we study word embeddings, which were among the first attempts to use neural networks to develop numerical representations of text that incorporate context. We learn how to use the package gensim to construct and explore word embeddings of text.
           [Chou Hall](https://www.google.com/maps/place/Chou+Hall/@37.8722997,-122.2545436,15z/data=!4m5!3m4!1s0x0:0xa1232f1c8e570c2b!8m2!3d37.8722997!4d-122.2545436)
-          Spieker Forum (6th Floor).  
+          Spieker Forum (6th Floor).  Hosted by <u>[D-Lab](https://dlab.berkeley.edu/home)</u>.
 
+
+          **Skill Level**: The workshop is geared towards those with a basic familiarity with Python, but people without any familiarity with Python should be able to follow along with the conceptual presentation of the materials.
           "
 
           # schedule loop item
