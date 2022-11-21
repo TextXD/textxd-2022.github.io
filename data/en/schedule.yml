@@ -140,6 +140,25 @@ schedule:
           ### Poster Session
 
           Poster session begins and runs through lunch.
+
+
+          **Geoffrey Boushey**  Contextualizing AI Generated Transcription Accuracy for Researchers
+         
+
+          **Jee Young Bhan**  Do Student Populations Matter for the Allocation of Additional Funds?: A Deeper Look at California’s Education Funding through LCAP Content
+         
+
+          **Benjamin Lacar**  Identifying and evaluating social risk associations with pediatric oncology outcomes using electronic health records and clinical notes
+         
+
+          **Hongkai Mao** Sentiment Shift: Interplay between users and the community on a Chinese Movie-rating Website 
+        
+
+          **Anastasja Abraham** Quantifying the Rhetoric of Polarization: A Word Embeddings Approach to the American Ideological Divide 
+         
+
+          **Da Gong** Politicians, Media and COVID
+          
           "
 
         # schedule loop item
@@ -303,6 +322,27 @@ schedule:
           
   
           ### Poster Session
+
+          Poster session begins and runs through lunch.
+
+
+          **Michael Ruiz**  Lifting the Bar: A relationship-orienting intervention motivates teachers to build relationships with hypothetical formerly incarcerated students
+         
+
+          **Julian Heid** Is Populism Contagious? Evidence from Parliamentary Speeches in Germany
+         
+
+          **Zeyneb Kaya** Women in the Workplace: Analyzing Gender Biases in Corporate Email Communications
+         
+
+          **Vitaly Meursault**  Can innovations in NLP help us study innovation? 
+
+
+          **Nikki Garlic**  Using R to Wrangle and Analyze Unstructured Text in Federal Court Case Dockets
+          
+
+          **Jay Gupta** A Topic Modeling Analysis on Historical US Mental Health Legislation
+
           "
 
         # schedule loop item
@@ -402,6 +442,8 @@ schedule:
           
   
           ### Keynote: <u>[David Blei](../speaker/david-blei)</u>
+
+          #### Beyond Roll Call: Inferring Politics from Text
           "
        
           # schedule loop item
