@@ -179,6 +179,8 @@ schedule:
           ####  Lightning Talks
           
         **Sub-Session: Scripting Culture, Smashing Politics**
+
+
           **Lightning 3.1:** Jaren Haber,
           Does Website Text Signal Quality & Fit for Schools of Choice?: Evidence from Online Experiments
 
@@ -194,6 +196,7 @@ schedule:
 
 
           **Sub-Session: The Hidden Structures of Science**
+
           
           **Lightning 3.4:** Xiangyi Meng, 
           Hidden Citations Obscure True Impact in Science
@@ -211,7 +214,7 @@ schedule:
           "
 
         # schedule loop item
-        - time : "10:30am"
+        - time : "2:00pm"
           image : "images/coffeebreak.png"
           content : "
           
