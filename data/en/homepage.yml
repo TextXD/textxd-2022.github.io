@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "6th Annual TextXD Conference"
-  subtitle : 
+  subtitle : "Has been cancelled due to UAW Strike across UC campuses"
   date_time : "December 5-7, 2022 "
   bg_image: "images/banner/letter_banner.jpg"
   button:
@@ -12,7 +12,7 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Count the day** <br> until TextXD starts"
   # set timer
   year: "2022"

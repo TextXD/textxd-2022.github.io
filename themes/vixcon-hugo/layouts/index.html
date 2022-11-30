@@ -12,13 +12,15 @@
         <div class="banner-content">
           <span>{{ .date_time }}</span> 
           <h1 class="mt-3 mb-5">{{ .title | markdownify }}</h1>
+          <h2>11/30/22 Update: TextXD has been <u><a href="./about/">cancelled.</u></a></h2>
           <br>
           {{ if .button.enable }}
           {{ with .button }}
+          
+          <a href="./schedule" class="btn btn-hero btn-rounded">See Cancellation Lettter</a>
           <a href="{{ .link | absLangURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>
           <br>
-          <br>
-          <a href="./schedule" class="btn btn-hero btn-rounded">See Schedule</a>
+          <br>  
           {{ end}}
           {{ end}}
           <br>
